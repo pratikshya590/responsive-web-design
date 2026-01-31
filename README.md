@@ -1,6 +1,10 @@
 # FreshCart Website Clone
 
 This project is a responsive grocery store website built using HTML and Tailwind CSS. It is a frontend-only project created for a website design assignment. The design is based on the FreshCart template from ThemeWagon. The website works on mobile, tablet, and desktop screens. No backend or database is used in this project.
+
+## Reference
+- **Original Template**: [FreshCart - ThemeWagon](https://themewagon.github.io/freshcart/)
+- 
 <img width="1885" height="734" alt="image" src="https://github.com/user-attachments/assets/b9a83669-5a57-4b1a-a0c9-e853834b2f48" />
 <img width="1873" height="885" alt="image" src="https://github.com/user-attachments/assets/088145dc-84ce-438e-8c1e-9e3a2a7de23d" />
 <img width="1868" height="883" alt="image" src="https://github.com/user-attachments/assets/d3393160-1361-412f-b285-deadb5b25e3c" />
